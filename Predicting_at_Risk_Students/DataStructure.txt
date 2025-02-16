@@ -1,0 +1,44 @@
+Predicting at-Risk Students at Different Percentages of Course Length for Early
+Intervention Using Machine Learning Models
+
+
+Predictive model, earliest possible prediction, at-risk students, machine learning, feedforward
+neural network, random forest, early intervention.
+
+
+Predicting_at_Risk_Students
+
+predicting_at_risk_students
+
+
+
+At risk Students
+
+Improving Students
+
+Consistent Students
+
+
+student_marks
+
+regno
+names
+sem1
+sem2
+sem3
+
+
+student_risk_prediction
+
+regno
+names
+sem1
+sem2
+sem3
+avg
+risk
+
+student_marks_model,student_risk_prediction_model,detection_ratio_model
+
+
+Predicting at-Risk Students at Different Percentages
